@@ -1,0 +1,197 @@
+{\rtf1\ansi\deff3\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f4\froman\fprq2\fcharset0 Liberation Sans{\*\falt Arial};}{\f5\froman\fprq2\fcharset0 Calibri;}{\f6\fnil\fprq2\fcharset0 Arial;}{\f7\fnil\fprq2\fcharset0 Liberation Serif{\*\falt Times New Roman};}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red34\green30\blue31;}
+{\stylesheet{\s0\snext0\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\alang1081\loch\f3\fs24\lang1033 Normal;}
+{\*\cs15\snext15\cf9\ul\ulc0\langfe255\lang255 Internet Link;}
+{\s16\sbasedon0\snext17\ql\nowidctlpar\hyphpar0\sb240\sa120\keepn\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f4\fs28\lang1033 Heading;}
+{\s17\sbasedon0\snext17\sl288\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033 Text Body;}
+{\s18\sbasedon17\snext18\sl288\slmult1\ql\nowidctlpar\hyphpar0\sb0\sa140\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033 List;}
+{\s19\sbasedon0\snext19\ql\nowidctlpar\hyphpar0\sb120\sa120\ltrpar\cf1\i\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033 Caption;}
+{\s20\sbasedon0\snext20\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033 Index;}
+{\s21\sbasedon0\snext21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033 Preformatted Text;}
+}{\*\generator LibreOffice/5.1.4.2$Windows_x86 LibreOffice_project/f99d75f39f1c57ebdd7ffc5f42867c12031db97a}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2016\mo10\dy6\hr10\min50}{\printim\yr0\mo0\dy0\hr0\min0}}\deftab720
+\hyphauto0\viewscale100
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse451\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\pgdscnxt0 Default Style;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1800\margr1800\margt1440\margb1440\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep}\pgndec\pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl288\slmult0\qc\nowidctlpar\sb0\sa148{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b\rtlch \ltrch\loch\fs22\loch\f5
+End User License Agreement for MAGIX Products}
+\par \pard\plain \s0\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\alang1081\loch\f3\fs24\lang1033\sl288\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa148\rtlch \ltrch\loch\fs20\loch\f5
+
+\par \pard\plain \s0\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\alang1081\loch\f3\fs24\lang1033\sl240\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa240{\cf17\b\rtlch \ltrch\loch\fs20\loch\f5
+IMPORTANT \u8211\'96 READ THIS AGREEMENT BEFORE USING YOUR PRODUCT. USING YOUR PRODUCT INDICATES YOUR ACCEPTANCE OF THIS AGREEMENT. }
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+1. Definitions}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+The following definitions shall apply to this license agreement:}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+1.1 "MAGIX Product" refers to the product licensed under this agreement, consisting of Software and, if applicable, additional Contents.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+1.2 "Software" refers to the computer program in object code format contained within a MAGIX Product, including all updates and upgrades, with the exception of provided Contents.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+1.3. Within this agreement, "Contents" refers to those Contents which are included in a MAGIX Product in addition to the Software, such as music files, video files and photo files, as well as other sounds and templates that contain such files.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+1.4 "Computer" refers to any physical or virtual device that can process data with the assistance of a programmable calculation specification (e.g. PC, laptop, workstation, an instance of a virtual machine, etc.) in conjunction with a CPU or multi-core processor. The following applies to networks: if several network Computers have access to a server on which the MAGIX Product is installed, each of these network Computers (workstations) counts as a Computer for the purpose of this license agreement. In such a case, a separate license is required for each network Computer.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+1.5 "Upgrades", for the purpose of this agreement, are supplementary versions of a MAGIX Product.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+1.6 "License seat" refers to the license assigned to a specific Computer belonging to the customer following activation of the MAGIX Product.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+1.7 "Commercial Use", for the purpose of this agreement, means any commercial use and any use of the Software or Contents for the direct or indirect purpose of financial benefit (e.g. by means of sale, licensing, advertising, etc.).}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+2. Contract purpose}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+2.1 Subject to the conditions of this agreement and for the duration of this agreement, MAGIX grants you (the customer) the non-exclusive and non-transferable right to use the respective MAGIX Product on the number of Computers specified in the serial number. MAGIX retains ownership, copyright and other proprietary rights related to the Software. You (the customer) acknowledge MAGIX's ownership as well as all proprietary rights to the Software, backup copies and documentation. The buyer of the Software is solely responsible for the proper contractual use of the MAGIX Product.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+2.2. With regard to upgrades, the following applies: Only owners of the basic product are authorized to receive each upgrade. Use of an upgrade depends on you being the owner and user of the basic product. An isolated circulation of an upgrade to third parties is not permitted.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+2.3 With regard to updates and features delivered within the scope of the MAGIX update guarantee, the following applies: The license for updates and features delivered within the 12 months after initial registration of the MAGIX product is limited to the installation(s) in place at the point when the 12-month period expires. If the update guarantee is extended beyond the 12-month period, this limitation does not apply.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+3. Installation and Registration}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+3.1 Together with the MAGIX Product you will receive an individual serial number which you must enter during installation. A one-time registration as well as online activation are also required. Using the serial number, you can activate the MAGIX Product for the number of Computers specified in the serial number; each Computer will be assigned a license seat. If the number of license seats specified in the serial number is exceeded, a license seat must be deactivated in order to activate the product again.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+3.2 If a function requires a free or fee-based activation (e.g. codec activation), then it can be activated over the Internet, should this become necessary due to replacement of hardware / CPU.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+4. License verification}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+Some MAGIX Product licenses have to be validated periodically. This ensures that the original Software is being used and that it is being used according to the license terms and conditions. This requires an Internet connection.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+5. Using the Software and Contents for commercial purposes}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+5.1 Software}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+The Software may be used for commercial purposes subject to the restrictions in clause 6.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+5.2 Contents}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+a) The Contents may be used for commercial purposes subject to the restrictions in clause 6 if they are used to create your own work results. This also applies to music, video or photo data as well as the corresponding templates acquired through or by means of MAGIX Products.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+b) Exploitation of Contents outside the scope of personally created work, i.e. separate from the work results achieved with the Software, is prohibited in all cases. In particular, the photos contained in the templates may not be extracted and used separately. This applies to both commercial and non-commercial uses.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+6. Prohibition to copy and rent; amendment prohibition}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+6.1 You are prohibited from copying the MAGIX Product and the written documentation either partially or in its entirety. Creation of a Software copy for back-up purposes is excluded from this provision.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+6.2 The MAGIX Product as well as the written documentation cannot be commercially rented out or commercially lent in any other form to a third party in exchange for payment. This also applies to lending of the Software in a pre-installed form on a Computer that is commercially offered to third parties in exchange for payment.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+6.3 In accordance with \u167\'a7\u167\'a7 69d & e UrhG (German Copyright Act), you may not make any changes to the licensed Software, personally or by third parties. You may not disassemble the Software into its components, nor modify the object code, decode, copy or use it in any way other than that foreseen in the contract.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+7. Transfer and subsidiary agreements}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+The transfer of rights and obligations under this license contract to third parties is only permitted on authorization from MAGIX with the exception of personal transfer of the legally acquired MAGIX Product by the rightful owner. Transfer of a legally purchased MAGIX product in this manner requires that all authorized backup copies are destroyed, all installations are removed, and that the third party agrees to these license terms and conditions.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8. Guarantee and liability}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.1 You are aware that state of the art Software programs and associated documentation may contain errors, and that it is not possible to develop data processing programs in such a way that they are error-free for all application conditions and all customer requirements, or error-free in conjunction with all third-party programs and hardware. MAGIX provides no assurances of particular features and usability related to planned customer-specific applications.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.2 In case of paid products and services, MAGIX is only liable to slight negligible damages incurred by it or its assistant(s) if a duty is violated, even if it is extra-contractual, the adherence to which is of special importance in order to be in compliance with contractual use (Cardinal duty), as well in cases of damage to life, body and health.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.3 For non-observance of a cardinal obligation, the liability is limited to the damage which must be typically expected within the scope of this agreement if there is no intention or gross negligence or if MAGIX must incur liability because of fatal injury, physical injury or health hazards.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.4 MAGIX shall not be liable for damage which can be controlled by the other contracting party or which the other contracting party could have prevented by taking measures which can be reasonably expected. MAGIX is liable for data loss only to the extent of costs incurred during restoration if backups are available.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.5 In any event, MAGIX's liability is limited to four times the amount paid for the license fee by the customer. This exclusion does not apply to damage caused through intent or gross negligence on the part of MAGIX.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.6 In case of paid products and services, the guarantee against deficiency in material and defects in title is limited to fraudulent concealment of defects by MAGIX in consideration of free licensing of the product. Otherwise, liability of MAGIX is limited to instances of premeditation and gross negligence in consideration of the free licensing.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.7 Statutory liability in case of personal damages and damages pursuant to the Product Liability Act remains unaffected.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.8 A change in the burden of proof to the disadvantage of the customer is not related to the foregoing provision.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+8.9 Insofar as MAGIX Products contain functions that operate via an online server, MAGIX retains the right to end the offering at any time. Availability will not be guaranteed.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+9. Licence conditions of other manufacturers}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+If the MAGIX Product contains additional Software from other manufacturers, should additional Software be integrated, or should the MAGIX Product contain links to third parties, then compliance with the terms of use and license conditions of the manufacturer of said delivered additional Software or with the terms of use and license conditions of the third party is also compulsory. If the MAGIX Product contains additional Software, you can view the respective use and licensing terms in the corresponding file.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+10. Support}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+MAGIX offers electronic Internet support during the warranty period. This encompasses clarification of installation questions and installation problems by Internet or email. The rendering of support is at the sole discretion of MAGIX and is not connected with any guarantee or warranty.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+11. Other}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+11.1 This agreement constitutes the entire agreement of the parties regarding the contract purpose. Collateral agreements shall not exist. No verbal or written statements made by MAGIX or any MAGIX employee can alter or question the validity of this license agreement.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120{\scaps0\caps0\cf17\expnd0\expndtw0\i0\b0\rtlch \ltrch\loch\fs20\loch\f5
+11.2 Should one or more of the conditions in this agreement be or become invalid, this will not affect the validity of the remaining agreement. A substitute provision will replace the invalid condition, such as comes closest to the intended purpose. The contract is subject to the law of the Federal Republic of Germany.}
+\par \pard\plain \s21\ql\nowidctlpar\hyphpar0\ltrpar\cf1\kerning1\dbch\af6\langfe1081\dbch\af7\afs24\loch\f3\fs24\lang1033\sl240\slmult0\qj\nowidctlpar\sb0\sa120\rtlch \ltrch\loch
+
+\par }

@@ -1,0 +1,215 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>Sony Creative Software Inc. - Video Capture Release Notes</title>
+	<link rel=stylesheet href="html_assets/fonts.css" type="text/css">
+</head>
+
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" rightmargin="0" bgcolor="#FFFFFF">
+<div align="center">
+<table width="770" height="100%" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td valign="top">
+			<div><img src="html_assets/sonylogo.gif" width="90" height="34" border="0" alt="Sony Creative Software Inc." style="margin-top: 8px;"></div>
+		</td>		
+		<td align="right">
+			<div><img src="html_assets/solutionstag.gif" width="304" height="34" border="0" style="margin-top: 10px;"></div>
+		</td>		
+	</tr>
+</table>
+<div style="margin-top: 10px;"><img src="html_assets/release-banner.jpg" alt="Release Notes" width="770" height="65" border="0"></div>
+
+<div>&nbsp;</div>
+<div class=headline>Video Capture 6.0</div>
+<div>July 2007</div>
+<div>&nbsp;</div>
+
+
+						
+<div class=subhead>Contents</div>
+<div>This document contains information on the following topics:</div>
+
+<ul type="square">
+ <li><a href="#Welcome">1.0 Welcome</a></li>
+ <li><a href="#Known_Issues">2.0 Known Issues</a></li>
+ <li><a href="#Requirements">3.0 System Requirements</a></li>
+ <li><a href="#Installation">4.0 Installation</a></li>
+                    <li><a href="#Contact_Info">5.0 </a><a href="#Contact_Info">Contacting Sony Creative Software Inc.</a></li>
+ </ul>
+
+<div>  </div>
+  <div>&nbsp;</div>
+
+
+
+<div class=subhead>1.0 Welcome<a NAME=Welcome></a></div>
+
+
+<div>Thank you for purchasing Sony Creative Software Inc. Video Capture 
+  6.0 software. This document contains information 
+  about installing and using Video Capture software on your computer.</div>
+
+						<div>&nbsp;</div>
+						<div class=subhead>2.0 Known Issues<a NAME=Known_Issues></a></div>
+						
+                        <ul type="square">
+                    <li>To prevent dropped frames, do not use your computer for 
+                      any other process while capturing or printing to tape. .</li>
+                    <li>Capturing to the same hard drive where your operating 
+                      system is installed can result in dropped frames. If you 
+                      have more than one drive, you can specify the target drive 
+                      on the Disk Management tab of the Preferences dialog.</li>
+                    <li>To prevent dropped frames, defragment the drive to which 
+                      you will be capturing video.</li>
+                    <li>If you will be recapturing your video from DV tape in 
+                      the future, select the <strong>Stop capture on dropped frames</strong> 
+                      check box on the Capture tab of the Preferences dialog. 
+                      This will ensure that the original captures and subsequent 
+                      recaptures are identical.</li>
+                    <li>OHCI-compliant IEEE-1394 DV capture cards are required 
+                      for DV device control.</li>
+                    <li>Even if device control does not work, you may still be 
+                      able to capture video by manually controlling your video 
+                      device (e.g. pressing play on your camcorder's remote and 
+                      then clicking the <strong>Capture</strong> button in Video 
+                      Capture). If you are having capture problems, try clearing 
+                      the<strong> Enable DV device control</strong> check box 
+                      in the Preferences dialog.</li>
+                    <li>Not all analog capture cards are supported at this time. 
+                      If you're using an analog card, please obtain the latest 
+                      WDM (Windows Driver Model) or VFW (Video for Windows) drivers 
+                      from your hardware manufacturer.</li>
+                    <li>If your DV camera is connected to another IEEE-1394 device 
+                      (&quot;daisy-chained&quot;), the bandwidth of the IEEE-1394 
+                      channel may not be sufficient for print-to-tape operations. 
+                      Connect each device to its own IEEE-1394 port before using 
+                      print-to-tape.</li>
+                    <li>When using a digital-to-analog transcoder without a LANC 
+                      adapter connected, clear the <strong>Enable DV device control</strong> 
+                      check box on the General Preferences tab.</li>
+                    <li>If you experience audio and video synchronization problems 
+                      when previewing from an analog device, choose Preview Audio 
+                      from the Options menu to turn off audio preview. Use the 
+                      Windows mixer to control the volume of the input to which 
+                      your capture card's audio output is connected.</li>
+                    <li>If you experience degraded system performance, clear the 
+                      <strong>Enable still image capture</strong> check box on 
+                      the Capture tab of the Preferences dialog.</li>
+                    <li>If you experience problems using a TV tuner card or displaying 
+                      closed captioning, clear the <strong>Enable still image 
+                      capture</strong> check box on the Capture tab of the Preferences 
+                      dialog.</li>
+                    <li>When the <strong>Allow full-screen file playback via Preview 
+                      on Camera or Print to Tape</strong> check box is selected 
+                      on the Capture tab of the Preferences dialog, the audio 
+                      and video output is not sent to connected DV devices.</li>
+                    <li>When the <strong>Allow full-screen file playback via Preview 
+                      on Camera or Print to Tape</strong> check box is selected, 
+                      you may have to play and stop previewing before the video 
+                      preview is displayed in full-screen mode. Contact your hardware 
+                      manufacturer for updated drivers, or &#8212; if you're using 
+                      a Matrox DualHead display adapter &#8212; turn off dual-monitor 
+                      support.</li>
+                    <li>To prevent duplicated timecode from occurring on DV tapes, 
+                      pre-stripe the tape by recording over the entire tape with 
+                      the lens cap on, or ensure you start recording before the 
+                      end of the previous scene.</li>
+                    <li>If you're unable to preview an MJPEG-encoded file to an 
+                      MJPEG external monitor, select the <strong>Close current 
+                      device when in file playback mode </strong>check box on 
+                      the General tab of the Preferences dialog.</li>
+                    <li>If you experience unexpected rebooting and are using a 
+                      debug version of the DirectX 8 runtime, please upgrade to 
+                      the retail version of the DirectX 8 runtime.</li>
+                    <li>For more detailed OHCI hardware, drivers, and DV information, 
+                      visit the Sony Pictures Digital <A href="http://www.custcenter.com/cgi-bin/sonypictures.cfg/php/enduser/std_adp.php?p_faqid=306" target="_blank"> 
+                      DV support page</A>.</li>
+                    <li>Depending on your current time ruler format, you may see 
+                      inconsistencies in the timecode values for clips that you 
+                      captured. Video Capture uses SMPTE drop time (29.97 fps). 
+                      If you switch the time format in Vegas to use SMPTE drop 
+                      time, Video Capture and Vegas will display the same timecode 
+                      information. </li>
+                  </ul>
+
+						<div class=subhead>3.0 System Requirements<a NAME=Requirements></a></div>
+						<div>
+						  <p>Please refer to the Vegas or Vegas Movie Studio Readme for information
+						    about system requirements.</p>
+					    </div>
+                  <div class=subhead>4.0 Installation <a NAME=Installation></a></p>
+        </div>
+						
+                  <div>Video Capture is automatically installed with Vegas and
+                     Vegas Movie Studio software.</div>
+                  <div></div>
+                  <div></div>
+						<div>&nbsp;</div>
+						
+<div class=subhead>5.0 Contacting Sony Creative Software Inc.<a NAME=Contact_Info></a></div>
+<div>Sony Creative Software Inc. can be contacted in the following ways:</div>
+<div>&nbsp;</div>
+
+<div><strong>Mailing Address:</strong></div>
+<div>Sony Creative Software Inc.</div>
+<div>1617 Sherman Ave.</div>
+<div>Madison, Wisconsin 53704</div>
+<div>USA</div>
+<div>&nbsp;</div>
+
+<div><strong>Customer Service/Sales:</strong></div>
+<div>For a detailed list of Customer Service options, we encourage you to visit <a href="http://www.sonycreativesoftware.com/support/custserv.asp" target="spdms">http://www.sonycreativesoftware.com/support/custserv.asp</a>.</div>
+<div>&nbsp;</div>
+<div>Telephone support during normal office hours:</div>
+<ul type="square">
+<li>1-800-577-6642 (toll-free) in US, Canada, and Virgin Islands.</li>
+<li>+608-204-7703 for all other countries.</li>
+<li>Fax: 1-608-250-1745.</li>
+</ul>
+
+<div></div>
+
+<div><strong>Technical Support</strong></div>
+
+<ul type="square">
+  <li>For a detailed list of Technical Support options, we encourage 
+    you to visit <a href="http://www.sonycreativesoftware.com/support/default.asp" target="spdms">http://www.sonycreativesoftware.com/support/default.asp</a>.</li>
+  <li>To listen to your support options please call 608-256-5555.&nbsp;</li>
+  </ul>
+
+
+
+<table cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td><img src="html_assets/-.gif" width="1" height="2" border="0"></td>
+		<td><img src="html_assets/-.gif" width="1" height="2" border="0"></td>
+		<td rowspan="3" width="107"><a href="http://www.sony.com" target="offsite"><img src="html_assets/sony.gif" alt="See the World of Sony" width="107" height="32" border="0"></a></td>
+		<td><img src="html_assets/-.gif" width="1" height="2" border="0"></td>
+	</tr>
+	<tr>
+		<td><img src="html_assets/bar-l.gif" alt="" width="9" height="28" border="0"></td>
+		<td background="html_assets/bar-bg.gif" valign="top" width="100%">
+			<div><img src="html_assets/-.gif" height="9" width="1" border="0"></div>
+			<div class=footer>
+				<a href="http://www.sonycreativesoftware.com/corporate/default.asp" class=footer>About Us</a> |							<a href="http://www.sonycreativesoftware.com/corporate/privacy.asp" class=footer>Privacy Statement</a> |
+				<a href="http://www.sonycreativesoftware.com/corporate/copyrightnotice.asp" class=footer>Copyright Notice</a> |
+				<a href="http://www.sonycreativesoftware.com/corporate/terms.asp" class=footer>Terms & Conditions</a>
+			</div>
+		</td>
+		<td><img src="html_assets/bar-r.gif" alt="" width="9" height="28" border="0"></td>
+	</tr>
+	<tr>
+		<td><img src="html_assets/-.gif" width="1" height="2" border="0"></td>
+		<td><img src="html_assets/-.gif" width="1" height="2" border="0"></td>
+		<td><img src="html_assets/-.gif" width="1" height="2" border="0"></td>
+	</tr>
+</table>
+<div class=legal style="margin: 2 2 2 0px">Copyright &#169; 2007. Sony Creative Software Inc. All Rights Reserved.</div>	
+	
+</td></tr></table>
+</div>
+</body>
+</html>
